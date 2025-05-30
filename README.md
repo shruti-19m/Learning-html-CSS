@@ -2,7 +2,7 @@
 
 Welcome to my learning repository focused on mastering the fundamentals and advanced concepts of HTML and CSS. This repo serves as a structured space where I document everything I learn as a budding frontend developer.
 
-> 🚀 I'm Sourav Kumar, a B.Tech Computer Science student at UCET Hazaribagh, currently building a strong foundation in web development.  
+> 🚀 I'm Shruti Mandal, a B.Tech Electronics and Communication Engineering student at UCET Hazaribagh, currently building a strong foundation in web development.  
 > 🔗 GitHub: [shruti-19m](https://github.com/shruti-19m) |
 
 ---
